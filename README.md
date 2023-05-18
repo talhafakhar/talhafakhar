@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> I'm Talha</h1>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">I'm Talha</h1>
 <h4 align="center">
 	I'm a creative, results-driven full-stack software developer with experience participating in the full software development life-cycle, from planning to launch. Comfortable in Frontend and Backend development, I'm passionate about developing robust, full-stack applications that solve business needs.
 </h4>
