@@ -1,8 +1,8 @@
-<h1>Hi👋 , I'm Talha</h1>
+<h1>Hi👋 , I'm Talha Fakhar</h1>
 <p>I'm Full-Stack Developer from <b>Lahore, Pakistan</b></p>
 
 - ⚡ Design and Develop website based on API Architecture & WEB Apps
-- 🌱 Code in Core PHP , Vanilla JavaScript, JQuery , AJAX , TypeScript, ReactJS,  Express, NextJS, VueJS, Redux Saga.
+- 🌱 I Code in Core PHP , Laravel , JavaScript, JQuery , AJAX , TypeScript, ReactJS,  Express JS, NextJS, VueJS, Redux Saga.
 
 ## 🛠️ Languages and Tools:
 <p>
