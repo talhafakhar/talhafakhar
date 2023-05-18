@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi 👋,I'm Talha</h1>
+<h1>Hi 👋,I'm Talha</h1>
 <p>I'm Full-Stack Developer from <b>Lahore, Pakistan</b></p>
 
 **What if you like my work?**
