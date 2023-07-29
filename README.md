@@ -7,7 +7,7 @@
 ## 🛠️ Languages and Tools:
 <p>
   <img alt="laravel" src="https://img.shields.io/badge/Laravel-%5E9.0-red.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)" />
-   <img alt="laravel" src="https://img.shields.io/badge/PHP-%5E7.4-blue.svg?style=for-the-badge&logo=php&logoColor=white)](https://php.net/)" />
+   <img alt="laravel" src="https://img.shields.io/badge/PHP-%5E9-blue.svg?style=for-the-badge&logo=php&logoColor=white)](https://php.net/)" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
