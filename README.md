@@ -1,5 +1,5 @@
-<h1>Hi👋 , I'm Talha Fakhar</h1>
-<p>I'm Full-Stack Developer from <b>Lahore, Pakistan</b></p>
+<h1>Holla👋 , I'm Talha Fakhar</h1>
+<p>I'm Full-Stack Developer from <b> Lahore, Pakistan</b> based in <b>Austin, Texas, United States</b></p>
 
 - ⚡ Design and Develop WEB Apps on API Architecture 
 - 🌱 I Code in PHP Laravel, JavaScript, JQuery, AJAX, TypeScript, ReactJS, NodeJS, Typescript, Express JS, NextJS, VueJS, Redux Saga & GraphQL 
@@ -46,7 +46,7 @@
 	I'm a creative, results-driven full-stack software developer with experience participating in the full software development life-cycle, from planning to launch. Comfortable in Frontend and Backend development, I'm passionate about developing robust, full-stack applications that solve business needs.
 </h4>
 <h4 align="center">	
-My experience includes working with a wide range of technologies including Laravel, Codeignitor, VueJS, ReactJS, NodeJS, ExpressJS, Django, Python Scripts, VanilaJS, AlpineJS, and AngularJS   I possess practical knowledge of database design and development, and am comfortable working with SQL (PostgreSQL, SQLite3) and NoSQL databases (MongoDB). 
+My experience includes working with a wide range of technologies including Laravel, Codeignitor, VueJS, ReactJS, NodeJS, ExpressJS, Django, Python Scripts, VanilaJS, AlpineJS, and AngularJS. I possess practical knowledge of database design and development and am comfortable working with SQL (PostgreSQL, SQLite3) and NoSQL databases (MongoDB). 
 </h4> -->
 
 <h4 align="center">	
