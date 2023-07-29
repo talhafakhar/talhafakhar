@@ -2,7 +2,11 @@
 <p>I'm Full-Stack Developer from <b> Lahore, Pakistan</b> based in <b>Austin, Texas, United States</b></p>
 
 - ⚡ Design and Develop WEB Apps on API Architecture 
-- 🌱 I Code in PHP Laravel, JavaScript, JQuery, AJAX, TypeScript, ReactJS, NodeJS, Typescript, Express JS, NextJS, VueJS, Redux Saga & GraphQL 
+- 🌱 I Code in PHP Laravel, JavaScript, JQuery, AJAX, TypeScript, ReactJS, NodeJS, Typescript, Express JS, NextJS, VueJS, Redux Saga & GraphQL
+
+- ## Let's connect
+
+<a href="mailto:talha@2btechinc.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="(https://www.linkedin.com/in/talhafakhar/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.talhafakhar.com"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
 
 ## 🛠️ Languages and Tools:
 <p>
