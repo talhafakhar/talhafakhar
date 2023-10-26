@@ -1,5 +1,5 @@
 <h1>Holla👋 , I'm Talha Fakhar</h1>
-<p>I'm Full-Stack Developer from <b> Lahore, Pakistan</b> based in <b>Austin, Texas, United States</b></p>
+<p>🌍 Full-Stack Developer | From Lahore 🇵🇰, now crafting code magic in Austin, Texas 🇺🇸</b></p>
 
 - ⚡ Design and Develop WEB Apps on API Architecture 
 - 🌱 I Code in PHP Laravel, JavaScript, JQuery, AJAX, TypeScript, ReactJS, NodeJS, Typescript, Express JS, NextJS, VueJS, Redux Saga & GraphQL
@@ -40,21 +40,22 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />   
 </p>
 
-**What if you like my work?**
+🚀 Specialties:
 
-- You can Star ⭐ the repositories you like. 
-- You can react ❤️ to my Linkedin posts.
+Crafting WEB Apps with API-first architecture.
+Expertise in PHP Laravel, ReactJS, NodeJS, VueJS, and more.
+🔗 Let's Collaborate:
+Feel free to star ⭐ my standout repositories or show some love ❤️ on my LinkedIn insights.
 <br>
 
- <h4 align="center">
-	I'm a creative, results-driven full-stack software developer with experience participating in the full software development life-cycle, from planning to launch. Comfortable in Frontend and Backend development, I'm passionate about developing robust, full-stack applications that solve business needs.
-</h4>
-<h4 align="center">	
-My experience includes working with a wide range of technologies including Laravel, Codeignitor, VueJS, ReactJS, NodeJS, ExpressJS, Django, Python Scripts, VanilaJS, AlpineJS, and AngularJS. I possess practical knowledge of database design and development and am comfortable working with SQL (PostgreSQL, SQLite3) and NoSQL databases (MongoDB). 
-</h4> -->
+ <h4 >
+	📚 About Me:
+I'm a dynamic developer with a flair for both frontend and backend realms. My journey in software development has seen me wear multiple hats - from ideation to deployment. With a tech stack that spans Laravel, ReactJS, NodeJS, and beyond, I'm all about creating impactful software solutions.
 
-<h4 align="center">	
-My favorite CMS are WordPress, Shopify, Webflow, and Squarespace. You can connect with me on talha@2btechinc.com
+🔧 Tech Arsenal:
+Laravel, JavaScript, React, VueJs, Nodejs, ExpressJS, Python, WordPress, Shopify, and more.
+
+
 </h4> -->
 
 
