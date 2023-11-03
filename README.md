@@ -3,7 +3,7 @@
 <h4 align="center">From Lahore 🇵🇰 to Austin, Texas 🇺🇸</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/talhafakhar"><img src="https://img.shields.io/badge/LinkedIn-Talha%20Fakhar-blue?style=for-the-badge&logo=linkedin" alt="Talha Fakhar LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/talhafakhar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Talha%20Fakhar-blue?style=for-the-badge&logo=linkedin" alt="Talha Fakhar LinkedIn"></a>
 </p>
 
 ---
@@ -96,15 +96,15 @@
     <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <!-- Website -->
-  <a href="https://talhafakhar.com/">
+  <a href="https://talhafakhar.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-talhafakhar.com-1F425F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
   <!-- Calendly -->
-  <a href="https://calendly.com/talhafakhar/discoverycall">
+  <a href="https://calendly.com/talhafakhar/discoverycall" target="_blank">
     <img src="https://img.shields.io/badge/Calendly-Discovery_Call-00A2FF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
   </a>
   <!-- WhatsApp -->
-  <a href="https://wa.me/+15067004391">
+  <a href="https://wa.me/+15067004391" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-+1 506 700 4391-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
 </p>
