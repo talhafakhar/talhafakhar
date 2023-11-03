@@ -1,61 +1,128 @@
-<h1>Holla👋 , I'm Talha Fakhar</h1>
-<p>🌍 Full-Stack Developer | From Lahore 🇵🇰, now crafting code magic in Austin, Texas 🇺🇸</b></p>
+<h1 align="center">👋 Hello, I'm Talha Fakhar!</h1>
+<h3 align="center">🌐 Full-Stack Developer | Code Artisan | Tech Innovator 🚀</h3>
+<h4 align="center">From Lahore 🇵🇰 to Austin, Texas 🇺🇸</h4>
 
-- ⚡ Design and Develop WEB Apps on API Architecture 
-- 🌱 I Code in PHP Laravel, JavaScript, JQuery, AJAX, TypeScript, ReactJS, NodeJS, Typescript, Express JS, NextJS, VueJS, Redux Saga & GraphQL
-
-- ## Let's connect
-
-<a href="mailto:talha@2btechinc.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/talhafakhar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.talhafakhar.com"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
-
-## 🛠️ Languages and Tools:
-<p>
-  <img alt="laravel" src="https://img.shields.io/badge/Laravel-%5E9.0-red.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)" />
-   <img alt="laravel" src="https://img.shields.io/badge/PHP-%5E9-blue.svg?style=for-the-badge&logo=php&logoColor=white)](https://php.net/)" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
-   <img alt="wordpress" src="https://img.shields.io/badge/-Wordpress-DD0031?style=for-the-badge&logo=wordpress&logoColor=white" />   
-  <img alt="angularjs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />   
-  <img alt="VueJs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=white" />   
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Material--UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
-<!--   <img alt="DJango" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> -->
-<!--   <img alt="CSHARP" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> -->
-<!--   <img alt="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> -->
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />  
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />   
+<p align="center">
+  <a href="https://www.linkedin.com/in/talhafakhar"><img src="https://img.shields.io/badge/LinkedIn-Talha%20Fakhar-blue?style=for-the-badge&logo=linkedin" alt="Talha Fakhar LinkedIn"></a>
 </p>
 
-🚀 Specialties:
+---
 
-Crafting WEB Apps with API-first architecture.
-Expertise in PHP Laravel, ReactJS, NodeJS, VueJS, and more.
-🔗 Let's Collaborate:
-Feel free to star ⭐ my standout repositories or show some love ❤️ on my LinkedIn insights.
-<br>
+<div align="center">
+  <img src="https://talhafakhar.com/wp-content/uploads/2023/11/talhafakhar_banner.jpeg" style="width: 60%;" alt="Banner that represents Talha Fakhar">
+</div>
 
- <h4 >
-	📚 About Me:
-I'm a dynamic developer with a flair for both frontend and backend realms. My journey in software development has seen me wear multiple hats - from ideation to deployment. With a tech stack that spans Laravel, ReactJS, NodeJS, and beyond, I'm all about creating impactful software solutions.
+<h2 align="center">💼 Tech Toolbox 🧰</h2>
 
-🔧 Tech Arsenal:
-Laravel, JavaScript, React, VueJs, Nodejs, ExpressJS, Python, WordPress, Shopify, and more.
+<p align="center">
+  <!-- Laravel -->
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge"/>
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  <!-- Node.js -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js Badge"/>
+  <!-- MongoDB -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+  <!-- CodeIgniter -->
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter Badge"/>
+  <!-- Vue.js -->
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js Badge"/>
+  <!-- WordPress -->
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
+  
+</p>
+
+<p align="center">
+  <!-- Vue.js -->
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js Badge"/>
+  <!-- Yii -->
+  <img src="https://img.shields.io/badge/Yii-2A2A2A?style=for-the-badge&logo=yii&logoColor=white" alt="Yii Badge"/>
+  <!-- Shopify -->
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Badge"/>
+  <!-- Wix -->
+  <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Badge"/>
+  <!-- SEO -->
+  <img src="https://img.shields.io/badge/SEO-20232A?style=for-the-badge" alt="SEO Badge"/>
+    <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <!-- TypeScript -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+  <!-- Webflow -->
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow Badge"/>
+</p>
+
+---
+
+<h2 align="center">🔥 Crafting Digital Experiences 🔥</h2>
+<p align="center">
+  I design and develop <b>web applications</b> with a focus on API-first architecture. My journey has taken me from Pakistan to the tech hub of Austin, where I continue to create and innovate with my coding skills.
+</p>
+
+---
+
+<h3 align="center">🚀 I Specialize In</h3>
+<p align="center">
+  Crafting seamless web apps using technologies like <b>PHP Laravel, ReactJS, NodeJS, VueJS</b>, and more.
+</p>
+
+<p align="center">
+  <a href="https://github.com/TalhaFakhar?tab=repositories">
+    <img src="https://img.shields.io/badge/Check_Out-My_Repositories-green?style=for-the-badge" alt="Repositories Badge"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">🌱 I’m currently learning...</h2>
+<p align="center">
+  <!-- Put things you are learning here -->
+  <code>GraphQL</code>,
+  <code>AWS Services</code>,
+  <!-- Add more as you like -->
+</p>
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+<p align="center">
+  Whether you're looking for a collaborator or just want to connect, I'm open to new opportunities and partnerships in the tech world.
+</p>
+
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:hello@talhafakhar.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <!-- Website -->
+  <a href="https://talhafakhar.com/">
+    <img src="https://img.shields.io/badge/Website-talhafakhar.com-1F425F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
+  <!-- Calendly -->
+  <a href="https://calendly.com/talhafakhar/discoverycall">
+    <img src="https://img.shields.io/badge/Calendly-Discovery_Call-00A2FF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
+  </a>
+  <!-- WhatsApp -->
+  <a href="https://wa.me/+15067004391">
+    <img src="https://img.shields.io/badge/WhatsApp-+1 506 700 4391-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+</p>
 
 
-</h4> -->
+<h3 align="center">About Me:</h3>
+<p align="center">
+  I'm a dynamic full-stack developer with a passion for both the frontend and backend realms. From ideation to deployment, I enjoy every step of the development process. With a diverse tech stack that includes <b>PHP Laravel, JavaScript, TypeScript, ReactJS, NodeJS, VueJS,</b> and more, I'm committed to building scalable and maintainable web applications that drive business success.
+</p>
+
+<p align="center">
+  I bring with me the spirit of Lahore's rich cultural heritage and blend it with the innovative and fast-paced tech scene of Austin. It's not just about coding for me—it's about crafting experiences that resonate with users and stand the test of time.
+</p>
+
+<p align="center">
+  Let's make the digital world a better place,
+  <br>
+  <span style="font-size:2em;"><strong>one line of code at a time. 🚀</strong></span>
+</p>
 
 
